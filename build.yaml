@@ -19,9 +19,9 @@
 #
 ---
 include:
-  - board: sparkfun_pro_micro_rp2040
+  - board: nice_nano_v2
     shield: aurora40_left
-  - board: sparkfun_pro_micro_rp2040
+  - board: nice_nano_v2
     shield: aurora40_right
-  - board: nice_nano_v2 # Replace with the Pro Micro-compatible board you're using
-    shield: tester_pro_micro
+  - board: nice_nano_v2
+    shield: settings_reset
